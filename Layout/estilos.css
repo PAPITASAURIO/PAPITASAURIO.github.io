@@ -1,0 +1,52 @@
+.header{
+	background-color: blue;
+	text-align: center;
+	padding: 30px;
+}
+
+.header h1{
+	color: pink;
+	font-size: 60px;
+}
+.menu{
+	background-color: #D133FF;
+	overflow: hidden;
+}
+.menu a{
+	float: left;
+	display: block;
+	color: #FF0080
+	text-align: center;
+	padding: 16px;
+}
+.menu a:hover{
+	color: black;
+	background-color: green;
+}
+.izquierda{
+	float: left;
+	width: 70%;
+}
+.objeto{
+	background-color: yellow;
+	padding: 20px;
+	margin-top: 20px; 
+}
+.imagen{
+	width:200px;
+}
+.body{
+	background-color: #6CFF00;
+}
+.derecha{
+	float: left;
+	width: 25%
+	background-color: white;
+	padding-left: 20px;
+}
+.footer{ 
+padding:10px;
+text-align:center;
+background-color: brown;
+margin-top:500px;
+ }
